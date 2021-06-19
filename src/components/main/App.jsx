@@ -1,6 +1,6 @@
 import React from 'react';
-import { View, Text } from 'react-native';
+import TabNavigation from './TabNavigation';
 
-const App = () => <View><Text>Yo</Text></View>;
+const App = () => <TabNavigation />;
 
 export default App;
